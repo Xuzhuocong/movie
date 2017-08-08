@@ -1,0 +1,67 @@
+<!-- 消息提示圆点
+
+            <TextView
+                android:id="@+id/tvYueYingIndicator"
+                android:layout_width="9dp"
+                android:layout_height="9dp"
+                android:layout_alignRight="@id/rbtnYueYing"
+                android:layout_alignTop="@id/rbtnYueYing"
+                android:layout_gravity="right"
+                android:background="@drawable/shape_message_indicator"
+                android:clickable="false"
+                android:gravity="center" />
+-->
+        </RelativeLayout>
+
+        <!-- 消息 -->
+
+<!-- 消息提示圆点
+
+            <TextView
+                android:id="@+id/tvXiaoXiIndicator"
+                android:layout_width="17dp"
+                android:layout_height="17dp"
+                android:layout_alignRight="@id/rbtnXiaoXi"
+                android:layout_alignTop="@id/rbtnXiaoXi"
+                android:layout_gravity="right"
+                android:layout_marginRight="-5dp"
+                android:background="@drawable/shape_message_indicator"
+                android:gravity="center"
+                android:text="99+"
+                android:textColor="@color/white"
+                android:textSize="8sp"
+                android:textStyle="bold" />
+            -->
+
+<!-- 消息提示圆点
+
+            <TextView
+                android:id="@+id/tvYingXunToMeIndicator"
+                android:layout_width="17dp"
+                android:layout_height="17dp"
+                android:layout_alignRight="@id/rbtnYingXun"
+                android:layout_alignTop="@id/rbtnYingXun"
+                android:layout_gravity="right"
+                android:background="@drawable/shape_message_indicator"
+                android:clickable="false"
+                android:gravity="center"
+                android:text="99+"
+                android:textColor="@color/white"
+                android:textSize="8sp"
+                android:textStyle="bold" />
+-->
+
+  <!-- 消息提示圆点
+
+            <TextView
+                android:id="@+id/tvUserIndicator"
+                android:layout_width="9dp"
+                android:layout_height="9dp"
+                android:layout_alignRight="@id/rbtnUser"
+                android:layout_alignTop="@id/rbtnUser"
+                android:layout_gravity="right"
+                android:layout_marginRight="7dp"
+                android:background="@drawable/shape_message_indicator"
+                android:clickable="false"
+                android:gravity="center" />
+-->
